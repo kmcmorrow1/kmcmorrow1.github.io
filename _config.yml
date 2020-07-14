@@ -2,6 +2,7 @@ title: Kevin McMorrow # your name (or website title) here
 logo: "/images/headshot_new.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   As a recent grad from Wesleyan University ('20), Kevin is passionate about all things data, art, and data-art.
+  <br><br>
   He feels at home analyzing large datasets using a mixture of R, SQL, and Excel--and more recently, he has been teaching himself D3.js and Tableau for data visualization. 
   <br><br>
   <a href="https://www.linkedin.com/in/kevin-mcmorrow-a34232191/">LinkedIn</a> 
