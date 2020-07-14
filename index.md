@@ -9,8 +9,8 @@ Interactive D3.js Choropleth of Pres. Candidate TV-Advertisement Activity (work 
 </iframe>
 
 ---
-[R/D3.js Tables Analyzing Ad Mentions Across Candidate Facebook Pages](https://mediaproject.wesleyan.edu/releases-070220/)
-<iframe src="https://mediaproject.wesleyan.edu/releases-070220/" height="500" width="750" scrolling="no" style="border:none;">
+[R/D3.js Tables Analyzing Ad Mentions Across Candidate Facebook Pages (collaborative project with Conner Sexton ('20)](https://mediaproject.wesleyan.edu/releases-070220/)
+<iframe src="https://wesmedia.wesleyan.edu/Images/Table1_link.html" height="500" width="750" scrolling="no" style="border:none;">
 </iframe>
 
 ---
