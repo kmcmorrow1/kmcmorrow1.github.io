@@ -10,7 +10,7 @@ Interactive D3.js Choropleth of Pres. Candidate TV-Advertisement Activity (work 
 
 ---
 [R/D3.js Tables Analyzing Ad Mentions Across Candidate Facebook Pages (collaborative project with Conner Sexton ('20)](https://mediaproject.wesleyan.edu/releases-070220/)
-<img src="images/Table.png?raw=true"/>
+<iframe src="https://wesmedia.wesleyan.edu/Images/Table1_link.html" height="500" width="750" scrolling="no" style="border:none;">
 
 ---
 [R/D3.js Bar Chart of Pres. Candidate Spending Totals](https://mediaproject.wesleyan.edu/releases-112019/)
@@ -21,7 +21,7 @@ Interactive D3.js Choropleth of Pres. Candidate TV-Advertisement Activity (work 
 
 ### Links
 
-- [Data/Visualization Work @ the Wesleyan Media Project](https://mediaproject.wesleyan.edu/?s=Kevin+McMorrow)
+- [Analysis/Visualization Work at the Wesleyan Media Project](https://mediaproject.wesleyan.edu/?s=Kevin+McMorrow)
 
 ---
 
