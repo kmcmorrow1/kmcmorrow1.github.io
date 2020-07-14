@@ -20,7 +20,7 @@ Interactive D3.js Choropleth of Pres. Candidate TV-Advertisement Activity
 
 ---
 
-### Category Name 2
+### Links
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
