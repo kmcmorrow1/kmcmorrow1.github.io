@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Recent Works
 
-[Project 1 Title](/sample_page)
+[D3.js Choropleth of 2020 Candidate TV Ad Activity](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
