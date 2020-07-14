@@ -8,8 +8,8 @@ Interactive D3.js Choropleth of 2020 Candidate TV-Advertisement Activity
 <iframe src="https://wesmedia.wesleyan.edu/Images/2020_DataViz/choropleth.html" height="500" width="750" scrolling="no" style="border:none;"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[R/D3.js Tables Analyzing Ad Mentions Across 2020 Candidate Facebook Pages](/pdf/sample_presentation.pdf)
+<iframe src="https://mediaproject.wesleyan.edu/releases-070220/" height="500" width="750" scrolling="no" style="border:none;"/>
 
 ---
 [Project 3 Title](http://example.com/)
