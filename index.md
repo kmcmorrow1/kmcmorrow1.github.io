@@ -4,7 +4,7 @@
 
 ### Recent Works
 
-[D3.js Choropleth of 2020 Candidate TV Ad Activity](/sample_page)
+[D3.js Choropleth of 2020 Candidate TV-Advertisement Activity](/sample_page)
 <iframe src="https://wesmedia.wesleyan.edu/Images/2020_DataViz/choropleth.html" height="500" width="750" scrolling="no"/>
 
 ---
