@@ -10,11 +10,13 @@ Interactive D3.js Choropleth of Pres. Candidate TV-Advertisement Activity
 
 ---
 [R/D3.js Tables Analyzing Ad Mentions Across Candidate Facebook Pages](https://mediaproject.wesleyan.edu/releases-070220/)
-<iframe src="https://mediaproject.wesleyan.edu/releases-070220/" height="500" width="750" scrolling="no" style="border:none;"/>
+<iframe src="https://mediaproject.wesleyan.edu/releases-070220/" height="500" width="750" scrolling="no" style="border:none;">
+</iframe>
 
 ---
 [R/D3.js Bar Chart of Pres. Candidate Spending Totals](https://mediaproject.wesleyan.edu/releases-121919/)
 <iframe src="https://wesmedia.wesleyan.edu/Images/2019_DataViz/Spending_Interactive7.html" height="500" width="750" scrolling="no" style="border:none;"/>
+</iframe>
 
 ---
 
