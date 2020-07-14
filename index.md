@@ -6,7 +6,6 @@
 
 [D3.js Choropleth of 2020 Candidate TV Ad Activity](/sample_page)
 <iframe src="https://wesmedia.wesleyan.edu/Images/2020_DataViz/choropleth.html">
-//<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
