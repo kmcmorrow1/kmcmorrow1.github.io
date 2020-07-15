@@ -19,7 +19,11 @@ Interactive D3.js Choropleth of Pres. Candidate TV-Advertisement Activity (work 
 </iframe>
 
 ---
+[D3.js Interactive Time Series Line Chart Depicting Pres. Candidate Spend (work in progress)](images/Testing_lines1.html)
+<iframe src="images/Testing_lines1.html" height="500" width="760" scrolling="no" style="border:none;">
+</iframe>
 
+---
 ### Links
 
 - [Analysis/Visualization Work at the Wesleyan Media Project](https://mediaproject.wesleyan.edu/?s=Kevin+McMorrow)
