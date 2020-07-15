@@ -27,7 +27,7 @@ Interactive D3.js Choropleth of Pres. Candidate TV-Advertisement Activity (work 
 ### Links
 
 - [Analysis/Visualization Work at the Wesleyan Media Project](https://mediaproject.wesleyan.edu/?s=Kevin+McMorrow)
-- [D3.js Barchart Published by WSHU.org](https://www.wshu.org/post/who-s-winning-2020-race-so-far-digital-media-companies#stream/1)
+- [D3.js Bar Chart Published by WSHU.org](https://www.wshu.org/post/who-s-winning-2020-race-so-far-digital-media-companies#stream/1)
 
 ---
 
