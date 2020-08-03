@@ -26,7 +26,7 @@ Interactive D3.js Choropleth of Pres. Candidate TV-Advertisement Activity (work 
 ---
 ### Links
 
-- [Leafly.com Data Analysis] (images/Leafly.pdf)
+- [Leafly.com Data Analysis](images/Leafly.pdf)
 - [Analysis/Visualization Work at the Wesleyan Media Project](https://mediaproject.wesleyan.edu/?s=Kevin+McMorrow)
 - [D3.js Bar Chart Published by WSHU.org](https://www.wshu.org/post/who-s-winning-2020-race-so-far-digital-media-companies#stream/1)
 
