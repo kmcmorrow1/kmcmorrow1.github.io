@@ -4,8 +4,8 @@
 
 ### Recent Works
 
-Interactive D3.js Choropleth of Pres. Candidate TV-Advertisement Activity (work in progress)
-<iframe src="https://wesmedia.wesleyan.edu/Images/2020_DataViz/choropleth.html" height="500" width="750" scrolling="no" style="border:none;">
+[Interactive D3.js Choropleth of Pres. Candidate TV-Advertisement Activity](https://mediaproject.wesleyan.edu/releases-081220/)
+<iframe src="https://wesmedia.wesleyan.edu/Images/2020_advantage_map/choropleth.html" height="500" width="750" scrolling="no" style="border:none;">
 </iframe>
 
 ---
