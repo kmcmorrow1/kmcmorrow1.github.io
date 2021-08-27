@@ -3,9 +3,9 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(A
 
 	return iatExtension({
 		category1 : {
-			name : 'RSL Members', //Will appear in the data.
+			name : 'RSL Member', //Will appear in the data.
 			title : {
-				media : {word : 'RSL Members'}, //Name of the category presented in the task.
+				media : {word : 'RSL Member'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			},
@@ -21,9 +21,9 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(A
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
 		},
 		category2 :	{
-			name : 'Presidents', //Will appear in the data.
+			name : 'US President', //Will appear in the data.
 			title : {
-				media : {word : 'Presidents'}, //Name of the category presented in the task.
+				media : {word : 'US President'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			},
@@ -38,6 +38,48 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(A
 			//Stimulus css
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
 		},
+			attribute1 :
+			{
+				name : 'Bad words',
+				title : {
+					media : {word : 'Bad words'},
+					css : {color:'#0000FF','font-size':'1.8em'},
+					height : 4 //Used to position the "Or" in the combined block.
+				},
+				stimulusMedia : [ //Stimuli content as PIP's media objects
+					{word: 'awful'},
+					{word: 'failure'},
+					{word: 'agony'},
+					{word: 'hurt'},
+					{word: 'horrible'},
+					{word: 'terrible'},
+					{word: 'nasty'},
+					{word: 'evil'}
+				],
+				//Stimulus css
+				stimulusCss : {color:'#0000FF','font-size':'2.3em'}
+			},
+			attribute2 :
+			{
+				name : 'Good words',
+				title : {
+					media : {word : 'Good words'},
+					css : {color:'#0000FF','font-size':'1.8em'},
+					height : 4 //Used to position the "Or" in the combined block.
+				},
+				stimulusMedia : [ //Stimuli content as PIP's media objects
+					{word: 'laughter'},
+					{word: 'happy'},
+					{word: 'glorious'},
+					{word: 'joy'},
+					{word: 'wonderful'},
+					{word: 'peace'},
+					{word: 'pleasure'},
+					{word: 'love'}
+				],
+				//Stimulus css
+				stimulusCss : {color:'#0000FF','font-size':'2.3em'}
+			},
 
 		base_url : {//Where are your images at?
 			image : 'https://baranan.github.io/minno-tasks/images/'
