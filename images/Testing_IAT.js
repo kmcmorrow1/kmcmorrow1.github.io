@@ -2,7 +2,6 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(A
     var API = new APIConstructor();
 
 	return iatExtension({
-    showDebriefing:true,
 		category1 : {
 			name : 'RSL Member', //Will appear in the data.
 			title : {
@@ -81,7 +80,7 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(A
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.3em'}
 			},
-
+    showDebriefing:true,
 		base_url : {//Where are your images at?
 			image : 'https://baranan.github.io/minno-tasks/images/'
 		}
