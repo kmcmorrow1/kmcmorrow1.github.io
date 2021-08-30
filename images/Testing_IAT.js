@@ -80,9 +80,9 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat8.js'], function(A
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.3em'}
 			},
-    showDebriefing:true,
 		base_url : {//Where are your images at?
 			image : 'https://baranan.github.io/minno-tasks/images/'
-		}
+		},
+    showDebriefing:true
 	});
 });
