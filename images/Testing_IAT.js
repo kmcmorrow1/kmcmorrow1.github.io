@@ -10,12 +10,12 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat9.js'], function(A
 				height : 4 //Used to position the "Or" in the combined block.
 			},
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    {word : 'annelise'},
-    			{word : 'rita'},
-    			{word : 'kevin'},
-    			{word : 'jonas'},
-    			{word : 'anne'},
-    			{word : 'connor'}
+    		    {word : 'Annelise'},
+    			{word : 'Rita'},
+    			{word : 'Dana'},
+    			{word : 'Dinah'},
+    			{word : 'Anne'},
+    			{word : 'Connor'}
 			],
 			//Stimulus css (style)
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
@@ -28,12 +28,12 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat9.js'], function(A
 				height : 4 //Used to position the "Or" in the combined block.
 			},
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    {word : 'obama'},
-    			{word : 'biden'},
-    			{word : 'trump'},
-    			{word : 'lincoln'},
-    			{word : 'eisenhower'},
-    			{word : 'roosevelt'}
+    		    {word : 'Obama'},
+    			{word : 'Biden'},
+    			{word : 'Trump'},
+    			{word : 'Lincoln'},
+    			{word : 'Eisenhower'},
+    			{word : 'Roosevelt'}
         ],
 			//Stimulus css
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
